@@ -1,3 +1,4 @@
 My first readme
 README.md
-a young programmer
+Willing to learn
+
